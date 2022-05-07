@@ -1,0 +1,1 @@
+print("Im trying to type as fast as i can without looking at the screen so we can see what typos we make tnift hefs")
